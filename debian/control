@@ -1,12 +1,12 @@
 Source: rtl8812au
 Section: kernel
 Priority: optional
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Georgii Staroseslkii <georgii.staroselskii@emlid.com>
 Build-Depends: debhelper (>= 9), dkms, dh-modaliases
 Standards-Version: 3.9.6
 Homepage: http://www.realtek.com.tw/
-Vcs-Git: https://github.com/rsalveti/rtl8812au.git
-Vcs-Browser: https://github.com/rsalveti/rtl8812au
+Vcs-Git: https://github.com/staroselskii/rtl8812AU_8821AU_linux
+Vcs-Browser: https://github.com/staroselskii/rtl8812AU_8821AU_linux
 
 Package: rtl8812au-dkms
 Architecture: all

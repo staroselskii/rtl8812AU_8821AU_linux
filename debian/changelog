@@ -1,3 +1,9 @@
+rtl8812au (4.3.8.12175.20140902-0raspbian1) jessie; urgency=low
+
+  * Added Raspbian packaging
+
+ -- Georgii Staroselskii <georgii.staroselskii@emlid.com>  Tue, 21 Jun 2016 19:29:36 +0300
+
 rtl8812au (4.3.8.12175.20140902+dfsg-0ubuntu4) yakkety; urgency=medium
 
   * Enabling CFG80211 and RTL8821A
