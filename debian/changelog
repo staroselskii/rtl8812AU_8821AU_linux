@@ -1,3 +1,10 @@
+rtl8812au (4.3.8.12175.20140902-0raspbian2) jessie; urgency=high
+
+  * Fixed make script for DKMS
+  * Added parallel build
+
+ -- Georgii Staroselskii <georgii.staroselskii@emlid.com>  Wed, 22 Jun 2016 17:36:06 +0300
+
 rtl8812au (4.3.8.12175.20140902-0raspbian1) jessie; urgency=low
 
   * Added Raspbian packaging
