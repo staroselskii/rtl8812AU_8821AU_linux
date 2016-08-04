@@ -1,3 +1,10 @@
+rtl8812au (4.3.8.12175.20140902-0raspbian3) jessie; urgency=low
+
+  * Added $kernelver to dkms build in order to make a non-native build
+    possible
+
+ -- Georgii Staroselskii <georgii.staroselskii@emlid.com>  Thu, 04 Aug 2016 18:24:13 +0300
+
 rtl8812au (4.3.8.12175.20140902-0raspbian2) jessie; urgency=high
 
   * Fixed make script for DKMS
